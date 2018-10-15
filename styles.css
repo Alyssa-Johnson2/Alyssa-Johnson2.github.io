@@ -1,0 +1,51 @@
+h1{
+    color:purple;
+    font-size: 100px;
+    font-family: 'Lobster', cursive;
+    text-align: center;
+}
+
+.navbar-dark .navbar-brand {
+    color: white;
+}
+
+h2{
+    font-size: 40px;
+    color:purple;
+    font-family: 'Lobster', cursive;
+    text-align: center;
+}
+
+h3{
+    color:black;
+    text-align: center;
+    font-family: 'Alegreya Sans SC', sans-serif;
+}
+
+h4{
+    color:black;
+    font-size:20px;
+    font-family: 'Lobster', cursive;
+}
+
+p{
+    color:gray;
+    text-align: center;
+    font-family: 'Alegreya Sans SC', sans-serif;
+}
+
+.navbar-dark .navbar-brand {
+    color: white
+}
+
+.jumbotron{
+    background-image:url(Map.jpg);
+    background-attachment:fixed;
+    background-size:cover;
+    padding-top: 20%;
+    padding-bottom: 20%;
+}
+
+.purptext{
+    color:purple;
+}

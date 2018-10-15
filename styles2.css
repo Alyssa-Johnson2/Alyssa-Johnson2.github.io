@@ -1,0 +1,26 @@
+body{
+    background-attachment:fixed;
+    background-color:black;
+    background-repeat:no-repeat;
+    background-size:cover;
+}
+
+h1{
+    color:black;
+    font-family:Century 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    text-decoration:blink;
+    text-shadow:2px 2px 2px white;
+}
+
+h2{
+    color:black;
+    font-family: Century 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    text-shadow:2px 2px 2px white;
+}
+
+.jumbotron {
+    background-color:turquoise
+
+}
